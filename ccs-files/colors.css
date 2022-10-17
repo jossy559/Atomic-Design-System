@@ -1,0 +1,25 @@
+
+:root {
+    /* for Button, FAB, Ex-FAB, and main colour */
+    --colorPrimaryColour: #7000ff;    
+    /* To extend Colour options especially text that need significance  */
+    --colorSecondaryColour: #09549a;    
+    /* For less significant expression */
+    --colorTertiaryColour: #513377;    
+    /* For backgrounds */
+    --colorNeutralColour: #4b5563;    
+    /* Extended options for background and placeholder */
+    --colorNeutralVariantColour: #455873;    
+    --colorStronk1: #9e9797;    
+    /* for Button, FAB, Ex-FAB, and main colour */
+    --colorPrimaryColour: #7000ff;    
+    /* To extend Colour options especially text that need significance  */
+    --colorSecondaryColour: #09549a;    
+    /* For less significant expression */
+    --colorTertiaryColour: #513377;    
+    /* For backgrounds */
+    --colorNeutralColour: #4b5563;    
+    /* Extended options for background and placeholder */
+    --colorNeutralVariantColour: #455873;    
+    --colorStronk1: #9e9797;    
+}
