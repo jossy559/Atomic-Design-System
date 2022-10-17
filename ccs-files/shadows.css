@@ -1,0 +1,7 @@
+
+:root {
+    /* For FAB and Buttons alike */
+    --shadowDropShadow: 6px 6px 4px 2px rgba(155,152,152,0.6), 6px 6px 4px 2px rgba(155,152,152,0.6);  
+    /* For background effects */
+    --shadowBackgroundShadow: 0 4px 4px 0 rgba(0,0,0,0.25), 0 4px 4px 0 rgba(0,0,0,0.25);  
+}
